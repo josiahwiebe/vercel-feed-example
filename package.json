@@ -1,0 +1,12 @@
+{
+  "name": "vercel-feed-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.6.4",
+    "node-fetch": "^2.6.1",
+    "qss": "^2.0.3",
+    "rss": "^1.2.2"
+  }
+}
