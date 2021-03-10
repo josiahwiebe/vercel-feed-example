@@ -1,7 +1,5 @@
 import RSS from 'rss'
-import { NowRequest, NowResponse } from '@vercel/node'
 import connectToDb from '../util/db'
-import RSS from 'rss'
 import fetch from '../util/fetch'
 
 const getActiveLessons = async () => {
